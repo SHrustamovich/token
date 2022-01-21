@@ -1,0 +1,17 @@
+[
+    {
+        "id":1,
+        "name":"dasturlash",
+        "studentsId":2
+    },
+    {
+        "id":2,
+        "name":"SMM",
+        "studentsId":1
+    },
+    {
+        "id":3,
+        "name":"Grafik-dizayn",
+        "studentsId":3
+    }
+]
